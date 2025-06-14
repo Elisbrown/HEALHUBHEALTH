@@ -4,7 +4,7 @@ This repository contains the source code for the frontend of the HealHub Health 
 
 ## Project Description
 
-HealHub Health is a website that provides information about [insert brief description of the website's purpose based on [invalid URL removed]]. 
+HealHub Health is a website that provides information about mental health. 
 
 This frontend codebase is built with [list the main technologies used, e.g., HTML, CSS, JavaScript and Bootstrap 5,3 ].
 
