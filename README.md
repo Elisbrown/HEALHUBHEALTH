@@ -20,7 +20,7 @@ This frontend codebase is built with [list the main technologies used, e.g., HTM
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/healhubhealth.git
+git clone https://github.com/elisbrown/healhubhealth.git
 ```
 
 2. Navigate to the project directory:
